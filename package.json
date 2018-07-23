@@ -5,9 +5,9 @@
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4",
-    "homepage": "https://charlieLyons.github.io/React-To-Do-List.git"
+    "react-scripts": "1.1.4"
   },
+  "homepage": "https://charlieLyons.github.io/React-To-Do-List.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
